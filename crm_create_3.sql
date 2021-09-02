@@ -3,6 +3,7 @@ create database crm_collection2;
 
 use crm_collection2;
 
+
 DROP TABLE IF EXISTS debtor_type; 
 CREATE TABLE debtor_type ( -- вид должника
 	id SERIAL PRIMARY KEY, 
