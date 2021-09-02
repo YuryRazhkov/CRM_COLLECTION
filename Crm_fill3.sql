@@ -1,3 +1,5 @@
+
+
 insert into debtor_type values 
 		(1, 'физическое лицо'),
 		(2, 'юридическое лицо');
