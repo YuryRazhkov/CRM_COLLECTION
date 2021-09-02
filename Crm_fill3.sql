@@ -5,8 +5,7 @@ insert into debtor_type values
 insert into stage values 
 		(1, 'soft'),
 		(2, 'hard'),
-		(3, 'legal')
-;
+		(3, 'legal');
 
 insert into garant_type values 
 	(NULL, 'поручительство физического лица'),
@@ -16,8 +15,7 @@ insert into garant_type values
 	(NULL, 'ипотека физического лица'),
     (NULL, 'ипотека юридического лица'),
 	(NULL, 'иное для физического лица'),
-	(NULL, 'иное для юридического лица')
-;
+	(NULL, 'иное для юридического лица');
 
 insert into currency values 
 	(NULL, 'USD'),
